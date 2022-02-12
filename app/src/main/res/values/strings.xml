@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">King11</string>
+    <string name="admob_appid">ca-app-pub-7181253365486312~6083262316</string>
+    <string name="banner_id1">ca-app-pub-7181253365486312/3868965159</string>
+    <string name="banner_id2">ca-app-pub-7181253365486312/7285465984</string>
+    <string name="banner_test">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
